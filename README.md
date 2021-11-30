@@ -63,20 +63,10 @@
   
   ## Education
   
-  - 📖 **Bachelor's in Geography**\
-📆 2010 - 2014\
-📍 **São Paulo State University - FCT Unesp** - Presidente Prudente, Brazil
-    
-  - 📖 **Computer engineering**\
-📆 2020 - 2024\
-📍 **São Paulo State Virtual University** - Campinas, Brazil
-  
-
-  ## Experience  
-
-  - 👨‍💻 **Sales Representative and DevOps Incompany Consultant**\
-📆 2021 - moment\
-📍 **HNZ IT Consulting and Training** - Campinas/SP, Brazil
+  - 📖 **Attending CC50 Harvard Computer Science Course**\
+📆 2021 - 2022\
+📍 **Foundation study - EAD
+   
   </details>
 
 #
