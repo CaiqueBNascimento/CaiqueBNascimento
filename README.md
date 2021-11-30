@@ -3,7 +3,7 @@
 </h1> 
 
 <p align='center'>
-  Enthusiast of science, lover of technology and development...!!!
+  Enthusiast technology and development...!!!
 </p>
 
 <p align='center'>
