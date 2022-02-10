@@ -19,7 +19,7 @@
 
 
 
-- 📚 I’m currently learning Python, C++, Machine Learning and everything about Data Science.
+- 📚 I’m currently learning Python, C++, Java, HTML, Css, Machine Learning and everything about Data Science.
 - 🏡 I’m from Birigui, SP - Brazil
 
 ##
