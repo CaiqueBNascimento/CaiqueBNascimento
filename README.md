@@ -63,10 +63,15 @@
   
   ## Education
   
-  - 📖 **Attending CC50 Harvard Computer Science Course**\
+  - 📖 **CC50 Harvard Computer Science Course**\
 📆 2021 - 2022\
 📍 **Foundation study - EAD
-   
+  
+    - 📖 **Attending Curso Web Moderno Completo com JavaScript 2021**\
+📆 2021 - 2022\
+📍 **Foundation study - UDEMY
+  
+  
   </details>
 
 #
