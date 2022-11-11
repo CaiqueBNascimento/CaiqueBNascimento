@@ -19,7 +19,8 @@
 
 
 
-- 📚 I’m currently learning C++, Java, HTML, Css, React, VueJs, SQL, Angular, Machine Learning and everything about Data Science.
+- 📚 
+I am currently studying at Trybe Online Programming School | 🇧🇷
 - 🏡 I’m from Birigui, SP - Brazil
 
 ##
