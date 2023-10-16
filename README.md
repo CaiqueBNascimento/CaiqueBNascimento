@@ -1,81 +1,24 @@
-<h1 align='center'>
-  Hello! I'm Caique Brunholi!
-</h1> 
+## Olá! Eu sou o Caique Brunholi ✌️
+#### Apaixonado por tecnologia e gamer nas horas vagas.
+- Hoje estudo, Tecnologia da Informação na Univesp (Universidade Virtual do Estado de São Paulo).
+- Sou de Birigui, SP - Brasil.
 
-<p align='center'>
-  Enthusiast technology and development...!!!
-</p>
+- Email: caiquebn@gmail.com
 
-<p align='center'>
-  <a href="www.linkedin.com/in/caiquebnascimento">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/caiquebrunholi/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-</p>
-
-##
+[![LinkedIn!](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiquebnascimento/)
+[![Instagram!](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caiquebrunholi/)
 
 
-
-- 📚 
-I am currently studying at Trybe Online Programming School | 🇧🇷
-- 🏡 I’m from Birigui, SP - Brazil
-
-##
-
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=CaiqueBNascimento&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
-
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiqueBNascimento&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
-
-##
-
-<p align='center'>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-</p>
+![CaiqueBNascimento GitHub stats](https://github-readme-stats.vercel.app/api?username=CaiqueBNascimento&show_icons=true&theme=dracula)
 
 
-<p align='center'>
-  📫 How to reach me: <a href='mailto:caiquebn@gmail.com'>caiquebn@gmail.com</a>
-</p>
+### Tecnologias que eu uso no meu dia 📚
 
+<div style="display: inline_block"><br/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</div><br/>
 
-<details>
-  <summary>📃 Resume</summary>
-  
-  
-  ## Education
-  
-  - 📖 **CC50 Harvard Computer Science Course**\
-📆 2021 - 2022\
-📍 **Foundation study - EAD
-  
-  - 📖 **Attending Trybe Online Programming School**\
-📆 2022 - 2023\
-📍 **Foundation study - EAD
-  
-  
-  </details>
-
-#
-
-<p align='center'>
-   devs and nerds have come here o/
-</p>
-
-
-<p align='center'>
- Thanks for visiting!
-</p>
-<p align='center'>  
- Enjoy it!! o/
-</p>
+Obrigado pela visita!
