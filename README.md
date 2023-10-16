@@ -1,9 +1,10 @@
 ## Olá! Eu sou o Caique Brunholi ✌️
 #### Apaixonado por tecnologia🖖 e Gamer nas horas vagas🎮.
-- Hoje estudo, Tecnologia da Informação na Univesp (Universidade Virtual do Estado de São Paulo).
-- Sou de Birigui, SP - Brasil.
+📚Hoje estudo, Tecnologia da Informação na Univesp (Universidade Virtual do Estado de São Paulo).
 
-- Email: caiquebn@gmail.com
+🗺️Sou de Birigui, SP - Brasil.
+
+📧Email: caiquebn@gmail.com
 
 [![LinkedIn!](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiquebnascimento/)
 [![Instagram!](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caiquebrunholi/)
