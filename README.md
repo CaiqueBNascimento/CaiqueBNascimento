@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Caique Brunholi ✌️
-#### 🖖Apaixonado por tecnologia e 🎮Gamer nas horas vagas.
+#### Apaixonado por tecnologia🖖 e Gamer nas horas vagas🎮.
 - Hoje estudo, Tecnologia da Informação na Univesp (Universidade Virtual do Estado de São Paulo).
 - Sou de Birigui, SP - Brasil.
 
